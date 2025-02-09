@@ -149,7 +149,7 @@ def test_linked_list():
     print("Initial list:")
     mylinkedlist.print_list()
 
-    print("\nInserting Discovery at index 2:")
+    print("\nInserting at index 2:")
     mylinkedlist.insert_at_index(2, s6)
     mylinkedlist.print_list()
 
